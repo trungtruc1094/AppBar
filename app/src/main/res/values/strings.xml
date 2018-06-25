@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Turvcy Kitchen</string>
+    <string name="title_activity_order">Create Order</string>
+</resources>
